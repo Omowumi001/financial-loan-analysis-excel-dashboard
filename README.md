@@ -2,11 +2,6 @@
 
 ![Dashboard Preview](Dashboard_Overview_Preview_1.PNG)
 
-
-## Overview
-This project analyses a financial loan dataset using Microsoft Excel...
-
-
 ## Overview
 This project analyses a financial loan dataset using Microsoft Excel. The goal is to explore borrower and loan characteristics and present key insights in an interactive dashboard.
 
