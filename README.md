@@ -31,7 +31,7 @@ This project analyses a financial loan dataset using Microsoft Excel. The goal i
 
 ## Files
 - `financial_loan_data_dashboard.xlsx` – Excel workbook with analysis + dashboard
-- `Bank_Loan_Overview_Dashboard_Preview.png` – screenshot of the overview dashboard
-- `Bank_Loan_Summary_Dashboard_Preview.png` – screenshot of the summary dashboard
+- `Dashboard_Overview_Preview_1.png` – screenshot of the overview dashboard
+- `Dashboard_Summary_Preview.png` – screenshot of the summary dashboard
 - `financial_loan_dataset.csv` – dataset used (or sample/anonymised version)
 
