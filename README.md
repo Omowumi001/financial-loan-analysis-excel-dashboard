@@ -1,5 +1,7 @@
 # Bank Loan Data Analysis – Excel Dashboard
 
+
+
 ## Overview
 This project analyses a financial loan dataset using Microsoft Excel. The goal is to explore borrower and loan characteristics and present key insights in an interactive dashboard.
 
@@ -24,7 +26,7 @@ This project analyses a financial loan dataset using Microsoft Excel. The goal i
 
 ## Files
 - `financial_loan_data_dashboard.xlsx` – Excel workbook with analysis + dashboard
-- `Bank Loan Overview Dashboard Preview.png` – screenshot of the overview dashboard
-- - `Bank Loan Summary Dashboard Preview.png` – screenshot of the summary dashboard
+- `Bank_Loan Overview_Dashboard_Preview.png` – screenshot of the overview dashboard
+- `Bank_Loan_Summary_Dashboard_Preview.png` – screenshot of the summary dashboard
 - `financial_loan_dataset.csv` – dataset used (or sample/anonymised version)
 
