@@ -16,13 +16,13 @@ This project analyses a financial loan dataset using Microsoft Excel. The goal i
 - Excel formulas (IF, XLOOKUP, SUMIFS)
 - Dashboard design (KPIs + filters/slicers)
 
-## Key Questions Answered
-- What is the Total Loan Applications?
-- What is the Average Interest Rate?
-- What is the Total Funded Amount?
-- What is the Average Debt-to-Income Ratio (DTI)?
-- Good Loan Applications
-- Bad Loan Applications
+## Key Questions Addressed
+- How many loan applications have been received and how do they trend over time?
+- What proportion of loans are good versus bad, and how do their funded amounts differ?
+- How do interest rates and DTI vary by loan status?
+- Which loan purposes and borrower characteristics drive the highest application volumes?
+- How is loan activity distributed across states and employment lengths?
+
 
 ## Files
 - `financial_loan_data_dashboard.xlsx` – Excel workbook with analysis + dashboard
