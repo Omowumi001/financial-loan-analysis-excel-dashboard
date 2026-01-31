@@ -62,8 +62,4 @@ The summary dashboard focuses on loan performance and risk by comparing good and
 - `Dashboard_Overview_Preview.PNG` – Screenshot of the overview dashboard  
 - `Dashboard_Summary_Preview.PNG` – Screenshot of the summary dashboard  
 
----
-
-## Purpose
-This project was completed as part of my preparation for MSc-level study in data science and engineering, demonstrating practical data analysis, reporting, and visualisation skills using Excel.
 
